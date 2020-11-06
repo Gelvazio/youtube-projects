@@ -12,7 +12,7 @@
 ## Tabela de conteúdos
 
 - [Sobre](#about)
-- [Objetivo](#Objetivos)
+- [Objetivos](#Objetivos)
 - [Autores](#autores)
 
 ## Sobre <a name = "sobre" ></a>
