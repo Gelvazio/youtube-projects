@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  -webkit-font-smoothing: antialiased !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+
+  background-image: url("./images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.4rem;
+}
+
+header > i {
+  color: #999;
+  font-size: 2.4rem;
+}
+
+.buttom-container {
+  width: 30px;
+  height: 30px;
+  margin-top: 2.4rem;
+}
+
+.buttom {
+  height: 3px;
+  background-color: #999;
+  margin-bottom: 4px;
+  border-radius: 50px;
+  width: 100%;
+}
+
+main {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  padding: 0 2.4rem;
+  margin-bottom: 10rem;
+}
+
+main > h2 {
+  font-size: 3.2rem;
+  color: #fff;
+}
+
+main > p {
+  margin-top: 1.6rem;
+  line-height: 2.4rem;
+  width: 280px;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1.6rem;
+  margin-bottom: 3.2rem;
+}
+
+.photos-container {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  padding: 1.2rem;
+  display: flex;
+  gap: 1rem;
+  height: 100px;
+}
+
+.image-location {
+  width: 100%;
+  height: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.image-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2b8c69;
+}
+
+.image-more > p {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.more {
+  margin-top: 3.2rem;
+  display: flex;
+  justify-content: space-between;
+  color: #2b8c69;
+}
+
+.more > p {
+  font-size: 2.4rem;
+  font-weight: bold;
+}
+
+.more > i {
+  font-size: 2.4rem;
+}
