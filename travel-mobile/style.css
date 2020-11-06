@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #f2f2f2;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  width: 100%;
+}
+
+.buttom-container {
+  width: 30px;
+  height: 30px;
+  margin: 1rem 2.4rem;
+  margin-top: 2.4rem;
+}
+
+.buttom {
+  height: 3px;
+  background-color: #333;
+  margin-bottom: 4px;
+  border-radius: 50px;
+}
+
+.buttom-first {
+  width: 100%;
+}
+
+.buttom-middle {
+  width: 80%;
+}
+
+.buttom-last {
+  width: 60%;
+}
+
+header {
+  width: 100%;
+  padding: 0 2.4rem;
+}
+
+header > p {
+  font-size: 4.2rem;
+  color: #444;
+  max-width: 350px;
+}
+
+p > span {
+  color: #f26d7c;
+}
+
+.menu {
+  display: flex;
+  margin: 0 2.4rem;
+  padding-bottom: 2.4rem;
+  justify-content: space-between;
+  gap: 2.4rem;
+  border-bottom: 1px solid rgba(221, 221, 221, 0.432);
+}
+
+.menu-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menu-item-container > p {
+  color: #333;
+  font-size: 1.1rem;
+  margin-top: 4px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.menu-item {
+  width: 72px;
+  height: 72px;
+  background-color: #ddd;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.4rem;
+}
+
+.menu-item > i {
+  font-size: 2.4rem;
+  opacity: 0.5;
+}
+
+.menu-hotels {
+  background-color: #54dead;
+}
+
+.menu-flights {
+  background-color: #f26d7c;
+}
+
+.menu-foods {
+  background-color: #facf5a;
+}
+
+.menu-events {
+  background-color: #8a5bab;
+}
+
+main {
+  margin: 2.4rem;
+}
+
+main > h2 {
+  font-size: 2.4rem;
+  color: #444;
+  font-weight: 500;
+}
+
+.locations-container {
+  margin-top: 2.4rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.4rem;
+}
+
+.locations-section > img {
+  margin-bottom: 2.4rem;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.locations-image {
+  width: 100%;
+  border-radius: 12px;
+}
