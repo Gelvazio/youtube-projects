@@ -12,7 +12,8 @@
 ## Tabela de conteúdos
 
 - [Sobre](#about)
-- [Objetivos](#Objetivos)
+- [Objetivos](#objetivos)
+- [Alguns projetos](#alguns-projetos)
 - [Autores](#autores)
 
 ## Sobre <a name = "sobre" ></a>
@@ -23,6 +24,13 @@ Repositório criado com o objetivo de guardar todos os projetos criados para o c
 
 Cada projeto terá o objetivo de mostrar conceitos sobre programação web, HTML, CSS, JS como também conteúdos mais avançados como ReactJS e até React Native.
 Alguns vídeos serão Speed Code, outros serão explicativos.
+
+## Alguns projetos
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/30422190/98409886-6511bb00-2052-11eb-9d47-aa1ebf4070ba.png" width="400">
+  <img src="https://user-images.githubusercontent.com/30422190/98409578-e157ce80-2051-11eb-8da8-ac6ab649387e.png" width="400">
+</p>
 
 ## Autores <a name = "autores"></a>
 
