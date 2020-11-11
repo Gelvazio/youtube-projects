@@ -1,4 +1,4 @@
-## Login Screen
+## Discover
 
 <img src="https://user-images.githubusercontent.com/30422190/98856977-26f30d80-243d-11eb-9c40-80df49e3bf8c.png" >
 
