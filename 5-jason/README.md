@@ -1,6 +1,6 @@
 ## Discover
 
-<img src="https://user-images.githubusercontent.com/30422190/98856977-26f30d80-243d-11eb-9c40-80df49e3bf8c.png" >
+<img src="https://user-images.githubusercontent.com/30422190/99115283-ef1ccf00-25d0-11eb-9dba-495901f3bbbd.png" >
 
 ## Video
 
